@@ -1,4 +1,5 @@
-Archived due to the archival of the upstream project.
+Archived upstream due to the archival of the upstream project.
+We're still using this for now here.
 
 # otf-agent
 
